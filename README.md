@@ -1,1 +1,1 @@
-# aula1_IA_generativa
+# IA GENERATIVA A1
